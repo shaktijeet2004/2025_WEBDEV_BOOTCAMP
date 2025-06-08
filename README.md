@@ -1,7 +1,7 @@
 
 # My Journey to become an great Web Developer.
 
-Created by :- [@Colt Steele](https://www.youtube.com/c/ColtSteeleCode)
+Course created by :- [@Colt Steele](https://www.youtube.com/c/ColtSteeleCode)
 
 ## What i have learned throughout the bootcamp
 
